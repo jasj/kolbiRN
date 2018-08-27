@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="38px" viewBox="0 0 24 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icn/Recarga</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_Inicio/Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-41.000000, -100.000000)">
+        <path d="M62.5,100 L43,100 C41.9,100 41,100.876923 41,101.948718 L41,136.051282 C41,137.123077 41.9,138 43,138 L62.45,138 C63.55,138 64.45,137.123077 64.45,136.051282 L64.45,101.948718 C64.5,100.876923 63.6,100 62.5,100 Z M62.5,101.948718 L62.5,106.187179 L43,106.187179 L43,101.948718 L62.5,101.948718 Z M62.5,108.135897 L62.5,129.035897 L43,129.035897 L43,108.135897 L62.5,108.135897 Z M43,136.051282 L43,130.984615 L62.45,130.984615 L62.45,136.051282 L43,136.051282 Z M49.35,132.738462 L49.35,134.687179 L56.2,134.687179 L56.2,132.738462 L49.35,132.738462 Z" id="Icn/Recarga" fill="#1AC6BA" fill-rule="nonzero"></path>
+    </g>
+</svg>

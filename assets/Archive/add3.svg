@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>add3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-280.000000, -490.000000)">
+        <g id="add3" transform="translate(280.000000, 490.000000)">
+            <circle id="Oval" fill="#FF931E" cx="30" cy="30" r="30"></circle>
+            <g id="ic/close/white" transform="translate(29.970563, 29.970563) rotate(-315.000000) translate(-29.970563, -29.970563) translate(17.970563, 17.970563)">
+                <g id="ic_close_24px">
+                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12"></polygon>
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

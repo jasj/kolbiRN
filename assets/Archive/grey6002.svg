@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>grey6002</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-21.000000, -367.000000)" opacity="0.4">
+        <g id="ic/remove_circle_outline/grey600" transform="translate(20.000000, 366.000000)">
+            <g id="ic_remove_circle_outline_24px">
+                <polygon id="Shape" points="0 0 20 0 20 20 0 20"></polygon>
+                <path d="M5.83333333,9.16666667 L5.83333333,10.8333333 L14.1666667,10.8333333 L14.1666667,9.16666667 L5.83333333,9.16666667 Z M10,1.66666667 C5.4,1.66666667 1.66666667,5.4 1.66666667,10 C1.66666667,14.6 5.4,18.3333333 10,18.3333333 C14.6,18.3333333 18.3333333,14.6 18.3333333,10 C18.3333333,5.4 14.6,1.66666667 10,1.66666667 Z M10,16.6666667 C6.325,16.6666667 3.33333333,13.675 3.33333333,10 C3.33333333,6.325 6.325,3.33333333 10,3.33333333 C13.675,3.33333333 16.6666667,6.325 16.6666667,10 C16.6666667,13.675 13.675,16.6666667 10,16.6666667 Z" id="Shape" fill="#757575" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
